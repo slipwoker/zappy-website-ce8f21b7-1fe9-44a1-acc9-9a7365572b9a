@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Create stunning canva logo designs and cool logo designs in minutes with AI-powered tools. Build your complete digital business with gamification, AR/VR, and global marketplace features.
+
+### Product
+https://example.com/product
+Discover our AI-powered ecosystem featuring good logo design tools, website creation, social media management, and AR/VR integration. Everything you need to build your digital empire.
+
+### Pricing
+https://example.com/pricing
+Choose from Basic, Pro, or Premium plans to create band logos and complete digital businesses. Get 30 days free, unlock gamification rewards, and access our global marketplace today.
+
+### Contact
+https://example.com/contact
+Questions about creating cool logo designs or building your digital business? Our team supports all world languages and currencies. Reach out and start transforming your vision into reality.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
